@@ -1,8 +1,3 @@
-# Application Name
-spring:
-  applicaton:
-    name: Config-Default
-
 #EUREKA SERVER CONFIGURATION
 eureka:
   instance:
